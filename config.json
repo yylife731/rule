@@ -112,8 +112,8 @@
       "type": "urltest",
       "tag": "自动选择",
       "outbounds": [
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -124,8 +124,8 @@
       "type": "selector",
       "tag": "手动切换",
       "outbounds": [
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -134,8 +134,8 @@
       "outbounds": [
         "手动切换",
         "自动选择",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -144,8 +144,8 @@
       "outbounds": [
         "手动切换",
         "自动选择",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -154,8 +154,8 @@
       "outbounds": [
         "手动切换",
         "自动选择",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -164,8 +164,8 @@
       "outbounds": [
         "手动切换",
         "自动选择",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -175,8 +175,8 @@
         "手动切换",
         "自动选择",
         "direct",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -185,8 +185,8 @@
       "outbounds": [
         "手动切换",
         "自动选择",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -196,8 +196,8 @@
         "手动切换",
         "自动选择",
         "direct",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -207,8 +207,8 @@
         "手动切换",
         "自动选择",
         "direct",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ]
     },
     {
@@ -218,8 +218,8 @@
         "direct",
         "手动切换",
         "自动选择",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ],
       "default": "direct"
     },
@@ -229,8 +229,8 @@
       "outbounds": [
         "block",
         "direct",
-        "33cd9c99-singbox_hysteria2",
-        "33cd9c99-singbox_tuic"
+        "873a1e03-singbox_hysteria2",
+        "873a1e03-singbox_tuic"
       ],
       "default": "block"
     },
@@ -247,13 +247,13 @@
       "type": "dns"
     },
     {
-      "tag": "33cd9c99-singbox_hysteria2",
+      "tag": "873a1e03-singbox_hysteria2",
       "type": "hysteria2",
       "server": "cc.520622.xyz",
-      "server_port": 13143,
-      "up_mbps": 50,
+      "server_port": 42643,
+      "up_mbps": 40,
       "down_mbps": 500,
-      "password": "33cd9c99-64eb-4162-a007-5408201d8cb1",
+      "password": "873a1e03-92b6-4df3-8256-9ae5ebc59e88",
       "tls": {
         "enabled": true,
         "server_name": "cc.520622.xyz",
@@ -263,12 +263,12 @@
       }
     },
     {
-      "tag": "33cd9c99-singbox_tuic",
+      "tag": "873a1e03-singbox_tuic",
       "type": "tuic",
       "server": "cc.520622.xyz",
-      "server_port": 16578,
-      "uuid": "33cd9c99-64eb-4162-a007-5408201d8cb1",
-      "password": "33cd9c99-64eb-4162-a007-5408201d8cb1",
+      "server_port": 30745,
+      "uuid": "873a1e03-92b6-4df3-8256-9ae5ebc59e88",
+      "password": "873a1e03-92b6-4df3-8256-9ae5ebc59e88",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
